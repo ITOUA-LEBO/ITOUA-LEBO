@@ -37,6 +37,7 @@ Je conçois des analyses claires et visuelles pour aider les produits à optimis
 
 ## 📫 Me contacter
 
-- 🔗 [LinkedIn]([https://linkedin.com/in/…](https://www.linkedin.com/in/lebo-rohi-nathan-itoua-lebo-8431b0255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-- 🌐 [the-data-master.notion.site](https://...)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lebo-rohi-nathan-itoua-lebo-8431b0255)  
+- 🌐 [Portfolio Notion](https://...) *(à compléter quand on publie ta page)*  
 - ✉️ thedatamaster@protonmail.com
+
