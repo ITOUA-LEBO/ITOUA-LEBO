@@ -21,7 +21,7 @@ Je conçois des analyses claires et visuelles pour aider les produits à optimis
 - 📈 **Funnel SaaS** – analyse des étapes clés de conversion (signup → activation)
 - 💡 **Segmentation client LTV** – par cohorte, fréquence et valeur
 
-> 💼 Tous mes projets sont consultables ici → [Notion Portfolio](https://...)
+> 💼 Tous mes projets sont consultables ici → [Notion Portfolio](https://emerald-whimsey-73a.notion.site/The-Data-Master-2241e39968b88053932dfa047567e753)
 
 ---
 
