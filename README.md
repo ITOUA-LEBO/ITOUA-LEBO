@@ -1,3 +1,4 @@
+# 👋 Hello, I'm Lebo – aka **The Data Master**
 🎯 **Data Analyst spécialisé SaaS B2B**  
 Je conçois des analyses claires et visuelles pour aider les produits à optimiser leurs parcours utilisateurs, comprendre leurs clients et prendre de meilleures décisions.
 
